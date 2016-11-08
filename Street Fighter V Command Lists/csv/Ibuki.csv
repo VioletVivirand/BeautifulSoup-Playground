@@ -1,0 +1,33 @@
+Command Type,Command Name,Command Move
+Normal Throws,Yamikazura,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Kubiori,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Tobizaru,{{< sfv-in-air >}} {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Tenrai,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Changes When Holding Button
+V-Trigger,Rokushaku Horokudama (Akebono),{{< sfv-direction-neutral >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Trigger,Rokushaku Horokudama (Hizakari),{{< sfv-direction-left >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Trigger,Rokushaku Horokudama (Tasogare),{{< sfv-direction-right >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Hanagasumi,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Agemen,{{< sfv-direction-left >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Kobekudaki,{{< sfv-direction-right >}} + {{< sfv-mediumkick >}}
+Unique Attacks,Sazan,{{< sfv-direction-downright >}} + {{< sfv-mediumkick >}}
+Unique Attacks,Bonshogeri,{{< sfv-direction-right >}} + {{< sfv-hardkick >}}
+Unique Attacks,Nobusuma,(During Neutral/Forward Jump) {{< sfv-kick >}} {{< sfv-kick >}}
+Unique Attacks,Shinten,{{< sfv-lightpunch >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-hardpunch >}}
+Unique Attacks,Yagurakuzushi,{{< sfv-lightpunch >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-lightkick >}}
+Unique Attacks,Gogasha,{{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-direction-down >}} + {{< sfv-hardkick >}} {{< sfv-triangle >}} {{< sfv-hardkick >}}
+Unique Attacks,Shakunage,{{< sfv-direction-down >}} + {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-direction-right >}} + {{< sfv-hardkick >}}
+Unique Attacks,Sansanaki,{{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-direction-right >}} + {{< sfv-mediumkick >}}
+Unique Attacks,Tobikura,(During Jump) {{< sfv-lightpunch >}} {{< sfv-triangle >}} {{< sfv-mediumkick >}}
+Unique Attacks,Aoji,(During Jump) {{< sfv-hardpunch >}} {{< sfv-triangle >}} {{< sfv-hardkick >}}
+Special Moves,Kasumigake,{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}
+Special Moves,Kazekiri {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} + {{< sfv-kick >}}
+Special Moves,Raida {{< sfv-ex >}},{{< sfv-halfcircle-left >}} + {{< sfv-punch >}}
+Special Moves,Kunai {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}
+Special Moves,Airborne Kunai {{< sfv-ex >}},(During Forward Jump) {{< sfv-quartercircle-right >}} + {{< sfv-punch >}}
+Special Moves,Kunai Ikkinage,"{{< sfv-punch >}} *Hold, Then Release Button"
+Special Moves,Airborne Kunai Ikkinage,"(During Jump) {{< sfv-punch >}} *Hold, Then Release Button"
+Special Moves,Kunai Hoju,{{< sfv-halfcircle-left >}} + {{< sfv-kick >}} *Can Hold Button
+Special Moves,Rokushaku Horokudama (Akebono),(During V-Trigger) {{< sfv-direction-neutral >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+Special Moves,Rokushaku Horokudama (Hizakari),(During V-Trigger) {{< sfv-direction-left >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+Special Moves,Rokushaku Horokudama (Tasogare),(During V-Trigger) {{< sfv-direction-right >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+Critical Art,Kachofugetsu,{{< sfv-quartercircle-right >}} {{< sfv-quartercircle-right >}} + {{< sfv-kick >}}

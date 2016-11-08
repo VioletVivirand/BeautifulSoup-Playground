@@ -1,0 +1,18 @@
+Command Type,Command Name,Command Move
+Normal Throws,Seoi Throw,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Pullback Hold,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Volty Line,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Skill,Linear Movement - Avante,{{< sfv-direction-right >}} + {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Hold Buttons To Attack
+V-Skill,Linear Movement - Esquiva,{{< sfv-direction-left >}} + {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Hold Buttons To Attack
+V-Skill,Linear Movement - Finta,{{< sfv-direction-left >}} + {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Hold Buttons To Attack
+V-Trigger,Spark Show,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Double Slap,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Step Elbow,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Twist Barrage,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}} {{< sfv-triangle >}} {{< sfv-hardpunch >}}
+Unique Attacks,Dual Crash,{{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-mediumkick >}}
+Special Moves,Bolt Charge {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}
+Special Moves,Split River {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-punch >}}
+Special Moves,Rodeo Break {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-kick >}}
+Special Moves,Thunder Clap {{< sfv-ex >}},{{< sfv-quartercircle-left >}} + {{< sfv-punch >}} *Hold Buttons To Power Up
+Special Moves,Sunset Wheel {{< sfv-ex >}},{{< sfv-halfcircle-left >}} + {{< sfv-kick >}}
+Critical Art,Inazuma Spin Hold,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}

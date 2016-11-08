@@ -1,0 +1,19 @@
+Command Type,Command Name,Command Move
+Normal Throws,Riding Glider,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Rising Sun,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Front Flip,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Skill,Airborne Eagle Spike,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-kick >}}
+V-Skill,Rolling Assault,{{< sfv-direction-down >}} + {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Skill,Nail Assault,{{< sfv-direction-down >}} + {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-kick >}}
+V-Trigger,Ysaar,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Sliding Roll,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Flap Spin,{{< sfv-direction-right >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Beak Assault,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Dash Spinning Mixer,(During Dash) {{< sfv-direction-right >}} + {{< sfv-punch >}} *Properties Change With Repeated Button Presses
+Unique Attacks,Dash Eagle Spike,(During Dash) {{< sfv-direction-right >}} + {{< sfv-kick >}}
+Unique Attacks,Wall Jump,(During Jump Near Wall) {{< sfv-direction-upright >}} Or {{< sfv-direction-downright >}}
+Special Moves,Spinning Mixer {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} *Properties Change With Repeated Button Presses
+Special Moves,Eagle Spike {{< sfv-ex >}},{{< sfv-quartercircle-left >}} + {{< sfv-kick >}}
+Special Moves,Airborne Eagle Spike {{< sfv-ex >}},(During Forward Jump) {{< sfv-quartercircle-left >}} + {{< sfv-kick >}}
+Special Moves,Whirlwind Shot {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}
+Critical Art,Altair,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}

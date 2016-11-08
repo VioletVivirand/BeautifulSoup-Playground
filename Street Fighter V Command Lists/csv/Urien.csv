@@ -1,0 +1,16 @@
+Command Type,Command Name,Command Move
+Normal Throws,Spartan Bomb,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} Or {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Metallic Aura,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Trigger,Aegis Reflector,{{< sfv-direction-neutral >}} Or {{< sfv-direction-left >}} Or {{< sfv-direction-down >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Anger Snap Fist,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Quarrel Punch,{{< sfv-direction-right >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Quarrel Kick,{{< sfv-direction-left >}} + {{< sfv-hardkick >}}
+Unique Attacks,Terrible Smash,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Killer Straight,{{< sfv-lightpunch >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}}
+Unique Attacks,Break Rush,{{< sfv-direction-right >}} + {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Special Moves,Chariot Tackle {{< sfv-ex >}},{{< sfv-charge-left >}} {{< sfv-direction-right >}} + {{< sfv-kick >}} *Changes After Using V-Skill
+Special Moves,Violence Knee Drop {{< sfv-ex >}},{{< sfv-charge-down >}} {{< sfv-direction-up >}} + {{< sfv-kick >}} *Changes After Using V-Skill
+Special Moves,Dangerous Headbutt {{< sfv-ex >}},{{< sfv-charge-down >}} {{< sfv-direction-up >}} + {{< sfv-punch >}} *Changes After Using V-Skill
+Special Moves,Metallic Sphere {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} *Changes When Holding Button
+Special Moves,Aegis Reflector,(During V-Trigger) {{< sfv-direction-neutral >}} Or {{< sfv-direction-left >}} Or {{< sfv-direction-down >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+Critical Art,Dominant Crush,{{< sfv-quartercircle-right >}} {{< sfv-quartercircle-right >}} + {{< sfv-punch >}}

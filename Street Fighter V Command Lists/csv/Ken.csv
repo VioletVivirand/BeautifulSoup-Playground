@@ -1,0 +1,17 @@
+Command Type,Command Name,Command Move
+Normal Throws,Knee Bash,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Hell Wheel,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Quick Step*,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Hold Buttons To Unleash A Step Kick
+V-Trigger,Heat Rush,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Senpu Nataotoshi,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplekick >}}
+Unique Attacks,Thunder Kick,{{< sfv-direction-right >}} + {{< sfv-hardkick >}} *Hold Button
+Unique Attacks,Thunder Kick (feint),{{< sfv-direction-right >}} + {{< sfv-hardkick >}}
+Unique Attacks,Inazuma Kick,{{< sfv-direction-left >}} + {{< sfv-mediumkick >}}
+Unique Attacks,Chin Buster,{{< sfv-direction-left >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Chin Buster 2nd,{{< sfv-direction-left >}} + {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-hardpunch >}}
+Unique Attacks,Lion Breaker,{{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-hardkick >}}
+Special Moves,Hadoken {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}
+Special Moves,Shoryuken {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} + {{< sfv-punch >}}
+Special Moves,Tatsumaki Senpukyaku {{< sfv-ex >}},{{< sfv-quartercircle-left >}} + {{< sfv-kick >}}
+Special Moves,Airborne Tatsumaki Senpukyaku {{< sfv-ex >}},(During Forward Jump) {{< sfv-quartercircle-left >}} + {{< sfv-kick >}}
+Critical Art,Guren Enjinkyaku,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}

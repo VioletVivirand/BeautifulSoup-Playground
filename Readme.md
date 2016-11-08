@@ -1,0 +1,1 @@
+This is my BeautifulSoup playground, contains some useful but not polished snippets.

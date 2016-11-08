@@ -1,0 +1,17 @@
+Command Type,Command Name,Command Move
+Normal Throws,Shoulder Throw,(Close To The Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Somersault Throw,(Close To The Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Mind's Eye,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Trigger,Denjin Renki,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Hashogeki,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Collarbone Breaker,{{< sfv-direction-right >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Solar Plexus Strike,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Axe Kick,{{< sfv-direction-left >}} + {{< sfv-hardkick >}}
+Unique Attacks,Jodan Nirengeki,{{< sfv-hardpunch >}} {{< sfv-triangle >}} {{< sfv-hardkick >}}
+Unique Attacks,Jodan Sanrengeki,{{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-hardpunch >}} {{< sfv-triangle >}} {{< sfv-hardkick >}}
+Special Moves,Hadoken {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} *Charge By Holding Button During V-Trigger
+Special Moves,Shoryuken {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} + {{< sfv-punch >}}
+Special Moves,Tatsumaki Senpukyaku {{< sfv-ex >}},{{< sfv-quartercircle-left >}} + {{< sfv-kick >}}
+Special Moves,Airborne Tatsumaki Senpukyaku {{< sfv-ex >}},(During Forward Jump) {{< sfv-quartercircle-left >}} + {{< sfv-kick >}}
+Critical Art,Shinku Hadoken,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}
+Critical Art,Denjin Hadoken,(During V-Trigger) {{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}

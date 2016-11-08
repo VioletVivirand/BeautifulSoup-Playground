@@ -1,0 +1,15 @@
+Command Type,Command Name,Command Move
+Normal Throws,Chisenkyaku,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Kaeikyaku,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Zankasen,{{< sfv-in-air >}} {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Kasatsushu,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Can Hold Button
+V-Trigger,Feng Shui Engine Type alpha,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Kaisenrenkyaku,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplekick >}}
+Unique Attacks,Korenzan,{{< sfv-direction-left >}} + {{< sfv-hardkick >}}
+Unique Attacks,Senkaikyaku,{{< sfv-direction-right >}} + {{< sfv-mediumkick >}}
+Unique Attacks,Kyoretsushu,{{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-direction-left >}} Or {{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Enkushu,(During Jump) {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-hardkick >}}
+Special Moves,Fuharenkyaku {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}} *Changes During V-Trigger
+Special Moves,Tensenrin {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} + {{< sfv-kick >}}
+Special Moves,Ryodansatsu {{< sfv-ex >}},{{< sfv-quartercircle-left >}} + {{< sfv-kick >}}
+Critical Art,Sakkai Fuhazan,{{< sfv-quartercircle-left >}} {{< sfv-quartercircle-left >}} + {{< sfv-kick >}}

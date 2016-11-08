@@ -1,0 +1,22 @@
+Command Type,Command Name,Command Move
+Normal Throws,Rainbow Suplex,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Crescent Line,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Stardust Shot,{{< sfv-in-air >}} {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Matador Turn*,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Hold Buttons To Attack
+V-Trigger,Bloody Kiss - Torero,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Trigger,Bloody Kiss - Rojo,{{< sfv-direction-down >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Trigger,Bloody Kiss - Azul,(During Forward Jump) {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Backslash,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+V-Reversal,Short Backlash,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplekick >}}
+Unique Attacks,Mercury Shard,{{< sfv-direction-right >}} + {{< sfv-mediumkick >}}
+Unique Attacks,Buster Claw,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}} *Claw On Only
+Unique Attacks,Matador Flash,{{< sfv-hardpunch >}} {{< sfv-triangle >}} {{< sfv-hardpunch >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Claw On Only
+Unique Attacks,Matador Blitz,{{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-hardkick >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Claw Off Only
+Unique Attacks,Wall Jump,(During Jump Near Wall) {{< sfv-direction-upright >}}
+Special Moves,Flying Barcelona Attack {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} Or {{< sfv-dragonpunch-left >}} + {{< sfv-kick >}} {{< sfv-triangle >}} {{< sfv-punch >}}
+Special Moves,Izuna Drop {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} Or {{< sfv-dragonpunch-left >}} + {{< sfv-kick >}} {{< sfv-triangle >}} (Close To Opponent) {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Special Moves,Grand Izuna Drop {{< sfv-ex >}},(Close To Opponent) {{< sfv-halfcircle-left >}} + {{< sfv-punch >}} *Claw Off Only
+Special Moves,Crimson Terror {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}
+Special Moves,Aurora Spin Edge {{< sfv-ex >}},{{< sfv-quartercircle-left >}} + {{< sfv-punch >}} *Claw On Only
+Special Moves,Switch Claw,{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} *Switch To Claw On/Off
+Critical Art,Bloody Rain,{{< sfv-quartercircle-left >}}{{< sfv-quartercircle-left >}} Or {{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}

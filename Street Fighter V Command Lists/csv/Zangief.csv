@@ -1,0 +1,14 @@
+Command Type,Command Name,Command Move
+Normal Throws,Atomic Drop,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Captured,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Iron Muscle,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Can Move Forward While Hold Buttons
+V-Trigger,Cyclone Lariat,{{< sfv-hardpunch >}} {{< sfv-hardkick >}} *Hold Buttons To Perform A Special Lariat
+V-Reversal,Muscle Explosion,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplekick >}}
+Unique Attacks,Head Butt,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Knee Hammer,{{< sfv-direction-right >}} + {{< sfv-mediumkick >}}
+Unique Attacks,Flying Body Press,(During Forward Jump) {{< sfv-direction-down >}} + {{< sfv-hardpunch >}}
+Special Moves,Screw Pile Driver {{< sfv-ex >}},(Close To Opponent) {{< sfv-three-sixty >}} + {{< sfv-punch >}}
+Special Moves,Double Lariat {{< sfv-ex >}},{{< sfv-triplepunch >}}
+Special Moves,Siberian Express {{< sfv-ex >}},{{< sfv-halfcircle-left >}} + {{< sfv-kick >}}
+Special Moves,Borscht Dynamite {{< sfv-ex >}},(During Vertical Or Forward Jump) {{< sfv-three-sixty >}} + {{< sfv-punch >}}
+Critical Art,Bolshoi Russian Suplex,(Close To Opponent) {{< sfv-three-sixty >}}{{< sfv-three-sixty >}} + {{< sfv-punch >}}

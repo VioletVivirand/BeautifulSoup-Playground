@@ -1,0 +1,13 @@
+Command Type,Command Name,Command Move
+Normal Throws,Shimonshu,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Kyoshitsugeki,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Nishodoku,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Trigger,Dokunomu,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Nikaiho,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Senpukuga,{{< sfv-direction-down >}} + {{< sfv-triplepunch >}} {{< sfv-triangle >}} {{< sfv-kick >}}
+Unique Attacks,Nirenko,{{< sfv-direction-downright >}} + {{< sfv-hardpunch >}}
+Special Moves,Nishikyu {{< sfv-ex >}},{{< sfv-charge-down >}} {{< sfv-direction-up >}} + {{< sfv-punch >}}
+Special Moves,Sotoja {{< sfv-ex >}},{{< sfv-charge-left >}} {{< sfv-direction-right >}} + {{< sfv-punch >}}
+Special Moves,Ryobenda {{< sfv-ex >}},{{< sfv-charge-left >}} {{< sfv-direction-right >}} + {{< sfv-kick >}}
+Special Moves,Nikankyaku {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} + {{< sfv-kick >}}
+Critical Art,Shishiruirui,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}

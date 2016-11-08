@@ -1,0 +1,23 @@
+Command Type,Command Name,Command Move
+Normal Throws,Hajotsui,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Arakuma Inashi,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Meioken,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Hold Buttons To Change Properties
+V-Trigger,Kanzuki-Ryu Guren No Kata,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Trigger,Guren Ken,{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}
+V-Trigger,Guren Hosho,{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-punch >}}
+V-Trigger,Guren Senha,{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-direction-up >}} + {{< sfv-punch >}}
+V-Trigger,Guren Chochu,{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-direction-down >}} + {{< sfv-punch >}}
+V-Trigger,Guren Hochu,{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-direction-down >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-direction-down >}} + {{< sfv-punch >}}
+V-Trigger,Guren Resshu,{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-direction-down >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-direction-up >}} + {{< sfv-kick >}}
+V-Trigger,Guren Kusabi,{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-direction-down >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-direction-down >}} + {{< sfv-kick >}}
+V-Trigger,Guren Kyoho,{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-kick >}}
+V-Reversal,Yashagaeshi,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Tsumujigari,{{< sfv-direction-right >}} + {{< sfv-mediumkick >}}
+Special Moves,Kanzuki-Ryu Hokojutsu Seppo {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}
+Special Moves,Tenko {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}} {{< sfv-triangle >}} {{< sfv-punch >}} *Press {{< sfv-punch >}} Fast To Change Properties
+Special Moves,Orochi {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}} {{< sfv-triangle >}} {{< sfv-direction-down >}} + {{< sfv-punch >}}
+Special Moves,Mujinkyaku {{< sfv-ex >}},{{< sfv-quartercircle-left >}} + {{< sfv-kick >}}
+Special Moves,Ressenha {{< sfv-ex >}},{{< sfv-quartercircle-left >}} + {{< sfv-punch >}}
+Special Moves,Senha Kusabi,{{< sfv-quartercircle-left >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-direction-down >}} + {{< sfv-kick >}}
+Special Moves,Senha Resshu,{{< sfv-quartercircle-left >}} + {{< sfv-punch >}} {{< sfv-triangle >}} {{< sfv-direction-up >}} + {{< sfv-kick >}}
+Critical Art,Kanzuki-Ryu Hadorokushiki Hasha No Kata,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}

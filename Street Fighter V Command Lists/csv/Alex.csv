@@ -1,0 +1,18 @@
+Command Type,Command Name,Command Move
+Normal Throws,Face-Crush Chop,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Leg Tomahawk,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Overhaul,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Trigger,Rage Shift,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Big Boot,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplekick >}}
+Unique Attacks,Chop,{{< sfv-direction-right >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Lariat,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Flying Cross Chop,(During Forward Jump) {{< sfv-direction-down >}} + {{< sfv-hardpunch >}}
+Special Moves,Flash Chop {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-hardpunch >}}
+Special Moves,Slash Elbow {{< sfv-ex >}},{{< sfv-charge-left >}} {{< sfv-direction-right >}} + {{< sfv-kick >}}
+Special Moves,Air Knee Smash {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} + {{< sfv-kick >}}
+Special Moves,Power Bomb {{< sfv-ex >}},(Near Opponent) {{< sfv-halfcircle-left >}} + {{< sfv-punch >}}
+Special Moves,Power Drop {{< sfv-ex >}},(Near Opponent) {{< sfv-halfcircle-left >}} + {{< sfv-punch >}}  *Only Triggers With {{< sfv-hardpunch >}} Flash Chop Or Sledge Hammer
+Special Moves,Air Stampede {{< sfv-ex >}},{{< sfv-charge-down >}} {{< sfv-direction-up >}} + {{< sfv-kick >}}
+Special Moves,Head Crush {{< sfv-ex >}},{{< sfv-charge-down >}} {{< sfv-direction-up >}} + {{< sfv-punch >}}
+Special Moves,Sledge Hammer,(During V-Trigger) {{< sfv-hardpunch >}} + {{< sfv-hardkick >}} *Can Hold Buttons
+Critical Art,Heavy Hammer,{{< sfv-quartercircle-right >}} {{< sfv-quartercircle-right >}} + {{< sfv-punch >}} 

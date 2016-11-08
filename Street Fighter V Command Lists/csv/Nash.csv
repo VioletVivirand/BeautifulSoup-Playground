@@ -1,0 +1,25 @@
+Command Type,Command Name,Command Move
+Normal Throws,Dragon Suplex,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Target Down,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Air Jack,{{< sfv-in-air >}} {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Bullet Clear,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Trigger,Sonic Move - Hide,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Trigger,Sonic Move - Blitz Air,{{< sfv-direction-left >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Trigger,Sonic Move - Steel Air,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Sonic Move - Avoid,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Knee Bazooka,{{< sfv-direction-right >}} + {{< sfv-lightkick >}}
+Unique Attacks,Jumping Sobat,{{< sfv-direction-right >}} + {{< sfv-mediumkick >}}
+Unique Attacks,Chopping Assault,{{< sfv-direction-right >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Step Kick,{{< sfv-direction-right >}} + {{< sfv-hardkick >}}
+Unique Attacks,Spinning Back Knuckle,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Side Knee Attack,{{< sfv-direction-left >}} + {{< sfv-mediumkick >}}
+Unique Attacks,Rapid Punch,{{< sfv-lightpunch >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}}
+Unique Attacks,Rapid Kick,{{< sfv-lightkick >}} {{< sfv-triangle >}} {{< sfv-mediumkick >}}
+Unique Attacks,Wind Shear,{{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-lightkick >}} {{< sfv-triangle >}} {{< sfv-hardpunch >}}
+Unique Attacks,Down Burst,{{< sfv-direction-down >}} + {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-direction-right >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Raptor Combination,{{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-hardkick >}} {{< sfv-triangle >}} {{< sfv-mediumkick >}}
+Special Moves,Sonic Boom {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} *Press {{< sfv-punch >}} During Ex Ver. For  A Second One
+Special Moves,Sonic Scythe {{< sfv-ex >}},{{< sfv-quartercircle-left >}} + {{< sfv-kick >}}
+Special Moves,Moonsault Slash {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}
+Special Moves,Tragedy Assault {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} + {{< sfv-punch >}}
+Critical Art,Judgement Saber,{{< sfv-quartercircle-left >}}{{< sfv-quartercircle-left >}} + {{< sfv-punch >}}

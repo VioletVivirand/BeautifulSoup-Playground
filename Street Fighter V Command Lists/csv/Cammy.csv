@@ -1,0 +1,18 @@
+Command Type,Command Name,Command Move
+Normal Throws,Gyro Clipper,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Delta Through,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Axel Spin Knuckle,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Trigger,Delta Drive,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Strike Back,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplekick >}}
+Unique Attacks,Knee Bullet,{{< sfv-direction-right >}} + {{< sfv-hardkick >}}
+Unique Attacks,Lift Upper,{{< sfv-direction-left >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Lift Combination,{{< sfv-direction-left >}} + {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-hardkick >}}
+Special Moves,Spiral Arrow {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}
+Special Moves,Cannon Spike {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} + {{< sfv-kick >}}
+Special Moves,Cannon Strike {{< sfv-ex >}},(During Forward Jump) {{< sfv-quartercircle-left >}} + {{< sfv-kick >}}
+Special Moves,Hooligan Combination {{< sfv-ex >}},{{< sfv-halfcircle-right >}} + {{< sfv-punch >}}
+Special Moves,(During Hooligan Combination) Lazer Edge Slicer {{< sfv-ex >}},No Input
+Special Moves,(During Hooligan Combination) Fatal Leg Twister,(Close To Ground) {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Special Moves,(During Hooligan Combination) Cross Scissors Pressure,(Close In Air) {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Special Moves,(During Hooligan Combination) Cannon Strike {{< sfv-ex >}},{{< sfv-kick >}}
+Critical Art,Cross Stinger Assault,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}

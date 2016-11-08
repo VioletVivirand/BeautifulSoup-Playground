@@ -1,0 +1,20 @@
+Command Type,Command Name,Command Move
+Normal Throws,Koshuto,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Tenshin Shushu,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Ryuseiraku,{{< sfv-in-air >}} {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Rankyaku,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Trigger,Renkiko,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Sohakkei,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Tsuitotsuken,{{< sfv-direction-left >}} Or {{< sfv-direction-right >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Hakkei,{{< sfv-direction-left >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Senenshu,{{< sfv-direction-downright >}} + {{< sfv-mediumkick >}}
+Unique Attacks,Tenkukyaku,{{< sfv-direction-left >}} + {{< sfv-hardkick >}}
+Unique Attacks,Yokusenkyaku,{{< sfv-direction-right >}} + {{< sfv-hardkick >}}
+Unique Attacks,Kakurakukyaku,{{< sfv-direction-downright >}} + {{< sfv-hardkick >}}
+Unique Attacks,Yosokyaku,(During Jump) {{< sfv-direction-down >}} + {{< sfv-mediumkick >}} *Up To 3 Times
+Unique Attacks,Wall Jump,(During Jump Near Wall) {{< sfv-direction-upright >}}
+Special Moves,Kikoken {{< sfv-ex >}},{{< sfv-charge-left >}} {{< sfv-direction-right >}} + {{< sfv-punch >}}
+Special Moves,Hyakuretsukyaku {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}
+Special Moves,Airborne Hyakuretsukyaku {{< sfv-ex >}},(During Vertical Or Forward Jump) {{< sfv-quartercircle-right >}} + {{< sfv-kick >}}
+Special Moves,Spinning Bird Kick {{< sfv-ex >}},{{< sfv-charge-down >}} {{< sfv-direction-up >}} + {{< sfv-kick >}}
+Critical Art,Hoyokusen,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}

@@ -1,0 +1,19 @@
+Command Type,Command Name,Command Move
+Normal Throws,Daydream Headlock,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Sell Down,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Mic Performance,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Hold Buttons To Power Up Normal And Special Throws
+V-Trigger,Nadeshiko (above),{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Trigger,Nadeshiko (front),{{< sfv-direction-left >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Trigger,Nadeshiko (behind),{{< sfv-direction-right >}} + {{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Peach Gator,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplekick >}}
+Unique Attacks,Stomp Chop,{{< sfv-lightkick >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}}
+Unique Attacks,Dive Bomb,(During Forward Jump) {{< sfv-direction-down >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Lady Mika,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Passion Press,{{< sfv-direction-left >}} Or {{< sfv-direction-right >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Passion Rope Throw (forward),{{< sfv-direction-left >}} Or {{< sfv-direction-right >}} + {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-direction-right >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Passion Rope Throw (backward),{{< sfv-direction-left >}} Or {{< sfv-direction-right >}} + {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-direction-left >}} + {{< sfv-mediumpunch >}}
+Special Moves,Shooting Peach {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}
+Special Moves,Wingless Airplane {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}} *V-Skill Increases Power
+Special Moves,Rainbow Typhoon {{< sfv-ex >}},(Close To Opponent) {{< sfv-halfcircle-left >}} + {{< sfv-punch >}} *V-Skill Increases Power
+Special Moves,Brimstone {{< sfv-ex >}},(Close To Opponent) {{< sfv-halfcircle-left >}} + {{< sfv-kick >}} *V-Skill Increases Power
+Critical Art,Peach Assault,{{< sfv-quartercircle-left >}}{{< sfv-quartercircle-left >}} + {{< sfv-punch >}} *V-Skill Increased Power

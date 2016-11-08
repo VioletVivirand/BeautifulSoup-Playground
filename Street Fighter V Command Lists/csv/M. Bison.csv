@@ -1,0 +1,16 @@
+Command Type,Command Name,Command Move
+Normal Throws,Psycho Impact,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Psycho Fall,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Psycho Reflect*,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Hold Buttons To Absorb The Opponents Projectile And Shoot It Back
+V-Trigger,Psycho Power,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Psycho Burst,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Hell Attack,{{< sfv-in-air >}} {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}}
+Unique Attacks,Psycho Axe,{{< sfv-direction-downright >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Shadow Axe,{{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-direction-downright >}} + {{< sfv-hardpunch >}}
+Special Moves,Psycho Blast {{< sfv-ex >}},{{< sfv-charge-left >}} {{< sfv-direction-right >}} + {{< sfv-punch >}}
+Special Moves,Double Knee Press {{< sfv-ex >}},{{< sfv-charge-left >}} {{< sfv-direction-right >}} + {{< sfv-kick >}}
+Special Moves,Head Press {{< sfv-ex >}},{{< sfv-charge-down >}} {{< sfv-direction-up >}} + {{< sfv-kick >}}
+Special Moves,Somersault Skull Diver,(After Head Press Hits) {{< sfv-punch >}}
+Special Moves,Devil Reverse {{< sfv-ex >}},(Before Head Press Hits) {{< sfv-punch >}}
+Special Moves,Psycho Inferno {{< sfv-ex >}},{{< sfv-quartercircle-left >}} + {{< sfv-punch >}}
+Critical Art,Ultimate Psycho Crusher,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} *Can Be Done In Air

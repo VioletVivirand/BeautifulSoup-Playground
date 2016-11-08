@@ -1,0 +1,20 @@
+Command Type,Command Name,Command Move
+Normal Throws,Bad Skull,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Bad Chain,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Break Time,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Skill,Banana Time,{{< sfv-direction-left >}} + {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Skill,Drink Time,{{< sfv-direction-down >}} + {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Trigger,Enjoy Time,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Pepper Pot,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Bull Drop,{{< sfv-direction-right >}} + {{< sfv-hardkick >}}
+Unique Attacks,Bull Charge,{{< sfv-direction-right >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Bull Slider,{{< sfv-direction-downright >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Bad Hammer,{{< sfv-direction-down >}} + {{< sfv-hardpunch >}} {{< sfv-triangle >}} {{< sfv-hardpunch >}}
+Special Moves,Bull Head {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}
+Special Moves,Bull Horn {{< sfv-ex >}},{{< sfv-punch >}} Or {{< sfv-kick >}} *Hold And Release
+Special Moves,Hanging Chain {{< sfv-ex >}},"{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}
+Chain Whirl: Hold Button
+Cancel: Press {{< sfv-punch >}} During Chain Whirl"
+Special Moves,Killing Head {{< sfv-ex >}},(Close To Opponent) {{< sfv-halfcircle-left >}} + {{< sfv-punch >}}
+Special Moves,Bull Revenger {{< sfv-ex >}},{{< sfv-halfcircle-left >}} + {{< sfv-kick >}}
+Critical Art,Skip To My Chain,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}

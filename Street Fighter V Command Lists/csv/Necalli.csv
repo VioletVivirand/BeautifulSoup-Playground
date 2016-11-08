@@ -1,0 +1,15 @@
+Command Type,Command Name,Command Move
+Normal Throws,Soul Sealer,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Soul Discriminator,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Culminated Power*,"{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} *Control Distance By Holding {{< sfv-direction-right >}}, {{< sfv-direction-left >}}, Or {{< sfv-direction-neutral >}}"
+V-Trigger,Torrent of Power,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,The Calling,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Opening Dagger,{{< sfv-direction-downright >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Road of the Sun,(During Forward Jump) {{< sfv-direction-down >}} + {{< sfv-hardkick >}}
+Unique Attacks,Sacrificial Altar,{{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-hardkick >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} Or {{< sfv-direction-left >}} + {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+Special Moves,The Disc's Guidance {{< sfv-ex >}},{{< sfv-charge-left >}} {{< sfv-direction-right >}} + {{< sfv-punch >}}
+Special Moves,Raging Light {{< sfv-ex >}},{{< sfv-dragonpunch-right >}} + {{< sfv-punch >}}
+Special Moves,Mask of Tlalli {{< sfv-ex >}},(Close To Opponent) {{< sfv-halfcircle-left >}} + {{< sfv-punch >}}
+Special Moves,Valiant Rebellion {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-kick >}}
+Critical Art,Ceremony of Honor,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}
+Critical Art,Soul Offering,(During V-Trigger) {{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}

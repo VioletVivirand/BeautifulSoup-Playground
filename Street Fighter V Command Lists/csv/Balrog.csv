@@ -1,0 +1,19 @@
+Command Type,Command Name,Command Move
+Normal Throws,Dirty Bomber,(Close To Opponent) {{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Dirty Shot,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,KKB,{{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} Or (During A Kkb-Supported Attack) {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Skill,Buffalo Swing,(During Kkb) {{< sfv-punch >}}
+V-Skill,Buffalo Pressure,(During Kkb) {{< sfv-kick >}}
+V-Trigger,Crazy Rush,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Buffalo Headbutt,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Hard Smasher,{{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-punch >}}
+Unique Attacks,Hard Pressure,{{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}} {{< sfv-triangle >}} {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-kick >}}
+Unique Attacks,Under Impact,{{< sfv-lightkick >}} {{< sfv-triangle >}} {{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-hardkick >}}
+Unique Attacks,Stomping Combo,{{< sfv-direction-down >}} + {{< sfv-mediumkick >}} {{< sfv-triangle >}} {{< sfv-direction-down >}} + {{< sfv-mediumkick >}}
+Special Moves,Dash Straight {{< sfv-ex >}},{{< sfv-charge-left >}} {{< sfv-direction-right >}} + {{< sfv-punch >}} *Kkb-Supported Attack
+Special Moves,Dash Grand Blow {{< sfv-ex >}},{{< sfv-charge-left >}} {{< sfv-direction-right >}} + {{< sfv-kick >}} *Kkb-Supported Attack
+Special Moves,Screw Smash {{< sfv-ex >}},{{< sfv-charge-down >}} {{< sfv-direction-up >}} + {{< sfv-kick >}}
+Special Moves,Turn Punch,{{< sfv-punch >}} Or {{< sfv-kick >}} *Hold And Release And Two Buttons *Kkb-Supported Attack
+Special Moves,Charging Buffalo {{< sfv-ex >}},(During V-Trigger & Special Move) {{< sfv-direction-right >}} + {{< sfv-punch >}} *Kkb-Supported Attack
+Special Moves,Bursting Buffalo {{< sfv-ex >}},(During V-Trigger & Special Move) {{< sfv-direction-right >}} + {{< sfv-kick >}} *Kkb-Supported Attack
+Critical Art,Gigaton Blow,{{< sfv-quartercircle-right >}} {{< sfv-quartercircle-right >}} + {{< sfv-punch >}}

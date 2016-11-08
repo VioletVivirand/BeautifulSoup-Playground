@@ -1,0 +1,16 @@
+Command Type,Command Name,Command Move
+Normal Throws,Yoga Rocket,(Close To Opponent) {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+Normal Throws,Yoga Hoop,(Close To Opponent) {{< sfv-direction-left >}} + {{< sfv-lightpunch >}} {{< sfv-lightkick >}}
+V-Skill,Yoga Float,{{< sfv-direction-right >}} Or {{< sfv-direction-neutral >}} + {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Skill,Yoga Float (airborne),(During Jump) {{< sfv-mediumpunch >}} {{< sfv-mediumkick >}}
+V-Trigger,Yoga Burner,{{< sfv-hardpunch >}} {{< sfv-hardkick >}}
+V-Reversal,Yoga Mala,(During Guard) {{< sfv-direction-right >}} + {{< sfv-triplepunch >}}
+Unique Attacks,Drill Kick,(During Jump) {{< sfv-direction-down >}} + {{< sfv-kick >}}
+Unique Attacks,Yoga Anvil,{{< sfv-direction-left >}} + {{< sfv-hardpunch >}}
+Unique Attacks,Yoga Upper,{{< sfv-direction-left >}} + {{< sfv-mediumpunch >}}
+Unique Attacks,Divine Kick,{{< sfv-direction-left >}} + {{< sfv-mediumkick >}}
+Special Moves,Yoga Fire {{< sfv-ex >}},{{< sfv-quartercircle-right >}} + {{< sfv-punch >}}
+Special Moves,Yoga Flame {{< sfv-ex >}},{{< sfv-halfcircle-left >}} + {{< sfv-punch >}}
+Special Moves,Yoga Gale {{< sfv-ex >}},(During Vertical Or Forward Jump) {{< sfv-halfcircle-left >}} + {{< sfv-punch >}}
+Special Moves,Yoga Teleport,{{< sfv-dragonpunch-right >}} Or {{< sfv-dragonpunch-left >}} + {{< sfv-triplepunch >}} Or {{< sfv-triplekick >}} *Can Be Done In Air
+Critical Art,Yoga Sunburst,{{< sfv-quartercircle-right >}}{{< sfv-quartercircle-right >}} + {{< sfv-punch >}} *Can Be Done In Air
